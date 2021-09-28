@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="analisador-lexico-master/analisador-lexico-master/teste-analisador-lexico/src"/>
+	<classpathentry kind="lib" path="analisador-lexico-master/analisador-lexico-master/teste-analisador-lexico/dist/teste-analisador-lexico.jar"/>
+	<classpathentry kind="output" path="analisador-lexico-master/analisador-lexico-master/teste-analisador-lexico/build/classes"/>
+</classpath>
